@@ -19,9 +19,6 @@ public class App {
         System.out.print("Milhas: ");
         int disMilhas = Integer.parseInt(input.nextLine());
 
-        Conversao.polegadasEmCentimetros(tamPolegadas);
-        Conversao.pesParaCentimetros(tamPes);
-        Conversao.milhasParaQuilometros(disMilhas);
 
         System.out.println("----------------------RESULTADO-----------------------\n");
         
